@@ -1,21 +1,26 @@
-MIT License
+独自商用ライセンス
 
-Copyright (c) 2025 chc-chupea
+著作権者：佐々木仁美（株式会社中国新聞販売センター）
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+本ソフトウェア（以下「本ソフトウェア」）は、佐々木仁美（株式会社中国新聞販売センター）が著作権を保有します。
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+### 利用許可
+本ソフトウェアを購入した者（以下「利用者」）は、以下の条件で利用することができます：
+1. 私的利用または社内利用に限り、本ソフトウェアを使用することができます。
+2. 利用者が本ソフトウェアを利用して遊んだり、イベント等で使用することは許可されています。
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+### 禁止事項
+利用者は、以下の行為を行ってはなりません：
+1. 本ソフトウェアの再配布（無料／有料を問わず）、販売、または貸与。
+2. 本ソフトウェアのソースコードを改変し、再配布または公開すること。
+3. 本ソフトウェアの著作権表示を削除、変更、または隠蔽すること。
+4. 本ソフトウェアを使用して作成した成果物を、他者の名義で販売、再配布すること。
+5. 本ソフトウェアを基にした派生物を商用目的で利用すること。
+
+### 商用利用について
+商用利用を希望する場合、または本ソフトウェアを改変して商用目的で利用したい場合は、別途著作権者との商用ライセンス契約が必要です。
+
+### 免責事項
+本ソフトウェアは「現状有姿」で提供され、明示または黙示を問わず、商品性、特定目的への適合性、または非侵害性に関するいかなる保証もありません。いかなる場合でも、著作権者は、本ソフトウェアの利用に起因または関連するいかなる損害についても責任を負いません。
+
+本ライセンスに違反した場合、利用者の利用権は即座に無効となり、著作権者は法的手段を取る権利を有します。
